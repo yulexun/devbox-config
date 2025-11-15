@@ -7,6 +7,7 @@
     "go-task@latest",
     "go@latest",
     "gum@latest",
+    "fluxcd@latest",
     "jq@latest",
     "k9s@latest",
     "kind@latest",
